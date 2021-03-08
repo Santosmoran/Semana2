@@ -12,12 +12,12 @@ Paso 2
  <p><img src="https://user-images.githubusercontent.com/71399485/110339642-aded7680-8028-11eb-9941-ee68d6e53f76.png" alt="Cat"></p> 
  - Se nos abrira otra pestañana en el navegador y copiamos la ruta donde copiaremos lo que esta en Install Homebrew
  <p><img src="https://user-images.githubusercontent.com/71399485/110339697-bc3b9280-8028-11eb-94f9-e79500d3ccb2.png" alt="Cat"></p> 
- - Tendremos que nstalar el Git:
+ - Tendremos que nstalar el Git
   - sudo apt-get install git
- 
+ Paso 3
  - Ya teniedo instlado el homebrew y el git ahora isntalaremos uas siguientes instrucciones 1 por 1 para poder instlar el brew
  <p><img src="https://user-images.githubusercontent.com/71399485/110340753-e2156700-8029-11eb-9aa6-48ae8722093f.png" alt="Cat"></p> 
- 
+ Paso 4
  - Ahora instalaremos el Mkcert con el comando:
   - brew install mkcert
   <p><img src="https://user-images.githubusercontent.com/71399485/110341411-9911e280-802a-11eb-94be-0a834a2a4d2b.png" alt="Cat"></p> 
