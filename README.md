@@ -14,6 +14,7 @@ Paso 2
  
  - Se nos abrira otra pestañana en el navegador y copiamos la ruta donde copiaremos lo que esta en Install Homebrew
  <p><img src="https://user-images.githubusercontent.com/71399485/110339697-bc3b9280-8028-11eb-94f9-e79500d3ccb2.png" alt="Cat"></p> 
+ 
  - Tendremos que nstalar el Git:
  - sudo apt-get install git
   
